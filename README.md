@@ -1,7 +1,7 @@
 Panama Startup Way - Manifiesto
 ====================
 
-1. Cada emprendimiento debe estar compuesto de **fundador(es)** capaces de seguir sus ideales y ejecutar la idea de formas innovadoras.
+1. Cada emprendimiento debe estar compuesto de **fundador(es)** en capacidad de seguir sus ideales y ejecutar la idea de formas innovadoras.
 2. Los lineamientos a conquistar y perseverar para una ejecución con capacidad de éxito debe regirse por modelos de **Lean Startup y metodologías como Agile**.
 3. Crecemos lento pero seguro, asumimos el reto de la escasez de mentes y abrimos el compas al **uso de tecnologías de diseño rápido y al outsourcing remoto** en países disponibles 
 4. Preferimos **marcos ("stack") de tecnologías** como Ruby on Rails, PHP, NodeJS entre otros para prototipos y **productos mínimos viables ("MVPs")**
